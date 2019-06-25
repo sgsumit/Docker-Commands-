@@ -1,0 +1,6 @@
+1. Create Ubuntu VM on your local Machine.
+2. Learn about Containers/Docker.
+3. Install Docker and learn all commands.
+4. Learn about DockerHub
+5. Learn contineous Integration Tool - Jenkins
+6. Kuberneted Cluster - Mini Kube or use kubernetes cloud platforms such as Google cloud, Amazon, azzure.
